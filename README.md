@@ -23,7 +23,7 @@ Under "Serial port setup" make the following changes:
 
 Exit out of the configuration menu and turn on your device. After several seconds, you should be presented with a login prompt.  Login with the following credentials:
 
-username: root
+username: root  
 password: password
 
 ## Additional Information
